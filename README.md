@@ -1,2 +1,3 @@
-# slackbots
-Holds a collection of gaming-related bots for Slack.
+# Overview
+
+This repo holds a collection of gaming-related bots for Slack.
